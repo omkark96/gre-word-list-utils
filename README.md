@@ -7,6 +7,9 @@ You will find a combined list of words, curated from following wordlists [word c
 4. Magoosh Common [~350]
 5. Powerscore Repeat Offenders [700]
 
+Find a file named `combined_word_list.csv` to get the list of total unique words from all the above sets.
+
+
 Links to original resources:
 1. Greg WordList: https://docs.google.com/spreadsheets/d/1jRATLVV34vATsL4Y67fZZXQc7qZPYc0c0Yk7Bykh4fw/edit#gid=0
 2. Prepscholar: https://www.prepscholar.com/gre/blog/gre-vocabulary-list-words/
