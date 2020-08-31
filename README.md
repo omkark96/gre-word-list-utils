@@ -6,3 +6,5 @@ You will find a combined list of words, curated from following wordlists [word c
 3. Magoosh Basic [~300]
 4. Magoosh Common [~350]
 5. Powerscore Repeat Offenders [700]
+
+Find a file named `combined_word_list.csv` to get the list of total unique words from all the above sets.
