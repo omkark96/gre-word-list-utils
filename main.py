@@ -7,7 +7,7 @@ MAGOOSH_COMMON_FILE = "Magoosh_Common.csv"
 POWERSCORE_REPEAT_OFFENDERS = "PowerscoreRepeatOffenders.csv"
 
 
-def cleaner_function(file_name, first_word_to_replace=None ):
+def cleaner_function(file_name, first_word_to_replace=None):
     """
     :param file_name:
     :param first_word_to_replace: too lazy too fix the encoding issue
